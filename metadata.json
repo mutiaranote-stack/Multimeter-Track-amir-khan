@@ -1,0 +1,8 @@
+{
+  "name": "Remix VoltTrack 3D — Misi Multimeter",
+  "description": "Game edukasi interaktif 3D model track mapping tentang penggunaan multimeter analog dan digital untuk mengukur tegangan AC/DC, arus listrik, dan tahanan resistor berbasis prinsip UDL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
